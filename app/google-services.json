@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "72827246468",
+    "firebase_url": "https://wallset-ac9a7.firebaseio.com",
+    "project_id": "wallset-ac9a7",
+    "storage_bucket": "wallset-ac9a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72827246468:android:844d6ecdae069c15",
+        "android_client_info": {
+          "package_name": "princeparaste.wallset"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72827246468-oiagfu81qbs9a2olul1a2gkcfhcmgkhi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "princeparaste.wallset",
+            "certificate_hash": "0f823e251b6ba305ab8a470e5c640e141c4a8a64"
+          }
+        },
+        {
+          "client_id": "72827246468-60rio7m62ca19n1opj9tp4ppil2mtq47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRWX6lgWGO2zeFrm4q_7kfqsvEnL7zQ4c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72827246468-60rio7m62ca19n1opj9tp4ppil2mtq47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
