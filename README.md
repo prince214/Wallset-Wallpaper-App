@@ -1,4 +1,4 @@
 # wallpaperApp using FireBase
-**DOWNLOAD THE APP**[click](https://github.com/prince214/Wallset-Wallpaper-App/raw/master/wallset.apk)
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+**DOWNLOAD THE APP**
+![GitHub Logo](download.png)
+Format: ![Click here to download app](wallset.apk)
